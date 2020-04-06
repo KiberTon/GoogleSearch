@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google Search</string>
+    <string name="title">Title:</string>
+    <string name="link">Link:</string>
+    <string name="button_search">Отправить запрос</string>
+    <string name="edit_text">Введите текст</string>
+</resources>
